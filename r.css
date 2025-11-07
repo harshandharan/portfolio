@@ -61,6 +61,14 @@ nav a {
   height: 150px;
   border-radius: 60%;
 }
+.profile img:hover {
+  transform: scale(1.1);
+  transition: 0.3s;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  cursor: pointer;
+}
+  
+
 section {
   padding: 40px;
   justify-content: center;
